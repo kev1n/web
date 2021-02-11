@@ -1,20 +1,27 @@
+/*
+Kevin Wang
+IntroCS pd6 sec10
+HW05: Stuylin', using CSS with HTML to style webpages
+2021--02--11
+*/
+
 html {
-  background-color:lightsalmon;
-  font-family: "Open Sans";
+  background-color:lightsalmon; /* make the background color light salmon */
+  font-family: "Open Sans"; /* Use the open sans font for the entire website */
 }
 
-h1 {
+h1 { /* Center and make the color of the biggest header darkblue */
   text-align: center;
   font-size: 10;
   color: darkblue;
 }
 
-h2 {
+h2 { /* Change color, size, and border of subheadings */
   color:seagreen;
   width: 350 px;
   border: 1px solid black;
 }
 
-p, ul, h3, a{
+p, ul, h3, a{ /* Establish a general color for the text of everything else */
   color: crimson;
 }
