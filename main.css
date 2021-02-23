@@ -23,5 +23,5 @@ h2 { /* Change color, size, and border of subheadings */
 }
 
 p, ul, h3, a{ /* Establish a general color for the text of everything else */
-  color: crimson;
+  color: MediumBlue;
 }
