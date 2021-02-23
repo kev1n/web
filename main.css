@@ -22,8 +22,12 @@ h2 { /* Change color, size, and border of subheadings */
   font-size: 15;
   border: 1px solid black;
 }
-
-p, ul, h3, a{ /* Establish a general color for the text of everything else */
+body { /* Set a general theme for the body, including color, spacing, font, etc */
+  width: 800px;
+  margin: 0 auto;
+  background-color: LightCyan;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
   color: MediumBlue;
-  font-size:  12
+  font-size:  12;
 }
