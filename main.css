@@ -12,16 +12,18 @@ html {
 
 h1 { /* Center and make the color of the biggest header darkblue */
   text-align: center;
-  font-size: 10;
+  font-size: 30;
   color: darkblue;
 }
 
 h2 { /* Change color, size, and border of subheadings */
   color:seagreen;
   width: 350 px;
+  font-size: 15;
   border: 1px solid black;
 }
 
 p, ul, h3, a{ /* Establish a general color for the text of everything else */
   color: MediumBlue;
+  font-size:  12
 }
